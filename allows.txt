@@ -367,6 +367,7 @@ docker.io/rustdesk/rustdesk-server
 docker.io/rustdesk/rustdesk-server-s6
 docker.io/sameersbn/gitlab
 docker.io/savatar101/omniparse
+docker.io/schemahero/*
 docker.io/schnell18/rocketmq-dashboard
 docker.io/seafileltd/seafile-mc
 docker.io/searxng/searxng
